@@ -3,23 +3,22 @@
 Medinet is a Flutter app designed for pre-booking appointments, recommending doctors and nearest hospitals for emergency patients, ordering medicine, and calling an ambulance.
 
 ## Screenshot
-![5](https://github.com/gomous/phone_auth/assets/71770172/e330a7c1-3c5d-4840-a95b-4956b60cce72)
 
+<img src="https://github.com/gomous/phone_auth/assets/71770172/e330a7c1-3c5d-4840-a95b-4956b60cce72" width="400" height="800">
 
-![6](https://github.com/gomous/phone_auth/assets/71770172/72648108-873e-4345-a375-e83c2aca5712)
+<img src="https://github.com/gomous/phone_auth/assets/71770172/72648108-873e-4345-a375-e83c2aca5712" width="400" height="800">
 
+## 
 
-![4](https://github.com/gomous/phone_auth/assets/71770172/910266c8-6596-42ff-a59e-4bcfa03ebf65)
+<img src="https://github.com/gomous/phone_auth/assets/71770172/910266c8-6596-42ff-a59e-4bcfa03ebf65" width="400" height="800">
 
+<img src="https://github.com/gomous/phone_auth/assets/71770172/a3771825-0fe6-4dbc-be70-12ec163a7c2e" width="400" height="800">
 
-![3](https://github.com/gomous/phone_auth/assets/71770172/a3771825-0fe6-4dbc-be70-12ec163a7c2e)
+## 
 
+<img src="https://github.com/gomous/phone_auth/assets/71770172/2434ffae-f4c7-4f30-b9ca-b4f60a219d11" width="400" height="800">
 
-![2](https://github.com/gomous/phone_auth/assets/71770172/2434ffae-f4c7-4f30-b9ca-b4f60a219d11)
-
-
-![1](https://github.com/gomous/phone_auth/assets/71770172/2c4f6229-d4a6-471b-8041-5a3871d12d72)
-
+<img src="https://github.com/gomous/phone_auth/assets/71770172/2c4f6229-d4a6-471b-8041-5a3871d12d72" width="400" height="800">
 
 ## Features
 
