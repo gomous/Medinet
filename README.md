@@ -1,16 +1,27 @@
-# phone_auth
+# MyAppName
 
-A new Flutter project.
+MyAppName is a Flutter app designed for pre-booking appointments, recommending doctors and nearest hospitals for emergency patients, ordering medicine, and calling an ambulance.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<!-- Add your screenshots here once you upload them -->
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Pre-book appointments with doctors
+- Get recommendations for nearby hospitals for emergency cases
+- Order medicine through the app
+- Call an ambulance with a single tap
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+### Prerequisites
+
+- Flutter SDK (version X.X.X) - [Installation Guide](https://flutter.dev/docs/get-started/install)
+- Android Studio or VS Code with Flutter/Dart plugins
+
+### Clone the repository
+
+```bash
+git clone https://github.com/your-username/MyAppName.git
+
