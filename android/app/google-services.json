@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215063887209",
+    "project_id": "phone-firebase-f9191",
+    "storage_bucket": "phone-firebase-f9191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215063887209:android:4cffafe46abbaa227611f8",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215063887209-74761a7sfb7p6j67b30en4tidb5n9gof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe9KQIf0pMKtEO4I0QO6OpPDCCS6IVQX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215063887209-74761a7sfb7p6j67b30en4tidb5n9gof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
